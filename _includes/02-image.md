@@ -1,1 +1,1 @@
-![Gif by bigblueboo] (https://giphy.com/gifs/ylyUQmXDhE8y6fjVkI/html5)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
