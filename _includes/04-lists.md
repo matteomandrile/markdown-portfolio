@@ -1,0 +1,3 @@
+- Analog photography, Canon A-1, B/W films
+- Electronic music production, also here analog machines only!
+- Hand drawings
