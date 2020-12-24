@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Analog photography, Canon A-1, B/W films
+- Electronic music production, also here analog machines only!
+- Hand drawings
