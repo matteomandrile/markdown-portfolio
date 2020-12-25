@@ -19,3 +19,7 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+
+<br>
+
+{% include SO 19650-2 - Resources map.html%}
