@@ -22,4 +22,4 @@ layout: default
 
 <br>
 
-{% include SO 19650-2 - Resources map.html%}
+{% include 9650-Resources.html%}
